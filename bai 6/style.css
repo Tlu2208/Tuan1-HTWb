@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.formInfor{
+    width: 700px;
+    height: 700px;
+    border-style: solid;
+    border-color: grey;
+    background-color: rgb(76, 185, 244);
+}
+
+.title{
+    margin: auto;
+    width: 250PX;
+    font-size: 25px;
+    height: 30px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    background-color: rgb(22, 211, 236);
+    box-shadow: 5px 7px rgb(182, 179, 179);
+
+}
+.NamePerson{
+    
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+.Electro{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+.nameForm{
+    margin: 30px 0 30px 0;
+    text-align: center;
+    font-size: 20px;
+}
+
+.body{
+    margin: 30px;
+}
+

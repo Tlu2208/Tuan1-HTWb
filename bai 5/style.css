@@ -1,0 +1,39 @@
+*{
+
+}
+.table1{
+    width: 90%;
+    height: 220px;
+    border-style: solid;
+    border-color: rgb(191, 187, 187);
+}
+
+.title{
+    margin-top: 20px ;
+    text-align: center;
+}
+
+.table1 table , th, td{
+    border: 1px solid;
+}
+
+th {
+    height: 20px;
+}
+
+.table2{
+    margin-top: 30px;
+    width: 90%;
+    height: 320px;
+    border-style: solid;
+    border-color: rgb(191, 187, 187);
+}
+.table2 table{
+    margin: 20px;
+    border: 5px purple;
+    border-collapse: collapse;
+}
+
+.table2 td{
+    vertical-align: top;
+}

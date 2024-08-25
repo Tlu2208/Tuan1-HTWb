@@ -1,0 +1,37 @@
+*{
+
+    margin-left: 0;
+}
+
+.poster{
+    width: 584px;
+    height: 150px;
+}
+
+.line{
+    height: 1.5px;
+    color: rgb(137, 141, 144);
+}
+
+.body1{
+    width: auto;
+    height: 150px;
+}
+
+.choose{
+    display: flex;
+    list-style-type: none;
+}
+.member-choose{
+    width: 100px;
+    margin-right: 30px;
+}
+
+.note{
+    color: blue;
+    text-decoration: underline;
+}
+
+.introduce{
+    font-style: italic;
+}

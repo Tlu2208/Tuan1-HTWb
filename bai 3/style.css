@@ -1,0 +1,12 @@
+*{}
+.special{
+    color: rgb(205, 88, 112);
+}
+
+.italy{
+    font-style: italic;
+}
+.slide{
+    color: rgb(14, 47, 235);
+    text-decoration: underline;
+}
